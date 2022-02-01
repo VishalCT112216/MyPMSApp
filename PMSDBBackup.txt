@@ -1,0 +1,774 @@
+USE [master]
+GO
+/****** Object:  Database [PMS]    Script Date: 1/5/2022 3:32:10 PM ******/
+CREATE DATABASE [PMS]
+ CONTAINMENT = NONE
+ ON  PRIMARY 
+( NAME = N'PMS', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLEXPRESS2019\MSSQL\DATA\PMS.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+ LOG ON 
+( NAME = N'PMS_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLEXPRESS2019\MSSQL\DATA\PMS_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [PMS].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [PMS] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [PMS] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [PMS] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [PMS] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [PMS] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [PMS] SET AUTO_CLOSE ON 
+GO
+ALTER DATABASE [PMS] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [PMS] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [PMS] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [PMS] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [PMS] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [PMS] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [PMS] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [PMS] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [PMS] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [PMS] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [PMS] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [PMS] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [PMS] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [PMS] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [PMS] SET READ_COMMITTED_SNAPSHOT OFF 
+GO
+ALTER DATABASE [PMS] SET HONOR_BROKER_PRIORITY OFF 
+GO
+ALTER DATABASE [PMS] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [PMS] SET  MULTI_USER 
+GO
+ALTER DATABASE [PMS] SET PAGE_VERIFY CHECKSUM  
+GO
+ALTER DATABASE [PMS] SET DB_CHAINING OFF 
+GO
+ALTER DATABASE [PMS] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
+GO
+ALTER DATABASE [PMS] SET TARGET_RECOVERY_TIME = 60 SECONDS 
+GO
+ALTER DATABASE [PMS] SET DELAYED_DURABILITY = DISABLED 
+GO
+ALTER DATABASE [PMS] SET QUERY_STORE = OFF
+GO
+USE [PMS]
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET ACCELERATED_PLAN_FORCING = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET BATCH_MODE_ADAPTIVE_JOINS = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET BATCH_MODE_MEMORY_GRANT_FEEDBACK = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET BATCH_MODE_ON_ROWSTORE = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET DEFERRED_COMPILATION_TV = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET ELEVATE_ONLINE = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET ELEVATE_RESUMABLE = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET GLOBAL_TEMPORARY_TABLE_AUTO_DROP = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET IDENTITY_CACHE = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET INTERLEAVED_EXECUTION_TVF = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET ISOLATE_SECURITY_POLICY_CARDINALITY = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET LAST_QUERY_PLAN_STATS = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET LEGACY_CARDINALITY_ESTIMATION = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET LEGACY_CARDINALITY_ESTIMATION = PRIMARY;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET LIGHTWEIGHT_QUERY_PROFILING = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET MAXDOP = 0;
+GO
+ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET MAXDOP = PRIMARY;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET OPTIMIZE_FOR_AD_HOC_WORKLOADS = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET PARAMETER_SNIFFING = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET PARAMETER_SNIFFING = PRIMARY;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET QUERY_OPTIMIZER_HOTFIXES = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET QUERY_OPTIMIZER_HOTFIXES = PRIMARY;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET ROW_MODE_MEMORY_GRANT_FEEDBACK = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET TSQL_SCALAR_UDF_INLINING = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET VERBOSE_TRUNCATION_WARNINGS = ON;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET XTP_PROCEDURE_EXECUTION_STATISTICS = OFF;
+GO
+ALTER DATABASE SCOPED CONFIGURATION SET XTP_QUERY_EXECUTION_STATISTICS = OFF;
+GO
+USE [PMS]
+GO
+/****** Object:  Table [dbo].[Allergy]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Allergy](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[AllergyId] [varchar](50) NOT NULL,
+	[AllergyType] [varchar](100) NULL,
+	[AllergyName] [varchar](100) NULL,
+	[ClinicalInfo] [varchar](500) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[AllergyId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Diagnosis]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Diagnosis](
+	[Id] [int] NULL,
+	[DiagnosisId] [int] IDENTITY(1,1) NOT NULL,
+	[DiagnosisCode] [varchar](25) NULL,
+	[DiagnosisDescription] [varchar](50) NULL,
+	[DiagnosisIsDepricated] [varchar](5) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[DiagnosisId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Drug]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Drug](
+	[Drug_ID] [varchar](20) NULL,
+	[Drug_Name] [varchar](50) NULL,
+	[Drug_Generic_Name] [varchar](50) NULL,
+	[Drug_Brand_Name] [varchar](50) NULL,
+	[Drug_Form] [varchar](50) NULL,
+	[Drug_Strength] [varchar](50) NULL,
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Login]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Login](
+	[User_Id] [int] IDENTITY(1,1) NOT NULL,
+	[Username] [varchar](50) NULL,
+	[Password] [varchar](50) NULL,
+	[Old_Password] [varchar](50) NULL,
+	[Title] [varchar](10) NULL,
+	[Firstname] [varchar](50) NULL,
+	[Lastname] [varchar](50) NULL,
+	[Email_Id] [varchar](50) NULL,
+	[DOB] [datetime] NULL,
+	[DOJ] [datetime] NULL,
+	[Contact_No] [varchar](50) NULL,
+	[Status] [varchar](20) NULL,
+	[Role_Id] [int] NULL,
+	[IsActive] [bit] NULL,
+	[Created_Date] [datetime] NULL,
+	[Created_By] [varchar](20) NULL,
+	[Id] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[User_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PatientAllergyInfo]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PatientAllergyInfo](
+	[Id] [int] NULL,
+	[PatientAllergyInfoId] [int] IDENTITY(1,1) NOT NULL,
+	[User_Id] [int] NULL,
+	[HasAllergy] [bit] NULL,
+	[AllergyId] [varchar](50) NULL,
+	[AllergyType] [varchar](100) NULL,
+	[AllergyName] [varchar](100) NULL,
+	[ClinicalInfo] [varchar](500) NULL,
+	[AllergyDescription] [varchar](1000) NULL,
+	[IsFatal] [varchar](3) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PatientAllergyInfoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PatientDemoInfo]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PatientDemoInfo](
+	[Id] [int] NULL,
+	[PatientDemoInfoId] [int] IDENTITY(1,1) NOT NULL,
+	[User_Id] [int] NULL,
+	[title] [varchar](50) NULL,
+	[fname] [varchar](50) NULL,
+	[lname] [varchar](50) NULL,
+	[dob] [datetime] NULL,
+	[age] [varchar](20) NULL,
+	[race] [varchar](50) NULL,
+	[ethinicity] [varchar](50) NULL,
+	[languagesKnown] [varchar](50) NULL,
+	[email] [varchar](50) NULL,
+	[gender] [varchar](50) NULL,
+	[homeAddress] [varchar](100) NULL,
+	[contactNumber] [varchar](50) NULL,
+	[emergencyFname] [varchar](50) NULL,
+	[emergencyLname] [varchar](50) NULL,
+	[relationship] [varchar](50) NULL,
+	[emergencyEmail] [varchar](50) NULL,
+	[EmergencyMobileNo] [varchar](50) NULL,
+	[emergencyAddress] [varchar](50) NULL,
+	[portalaccess] [varchar](50) NULL,
+	[TypeofAllergies] [varchar](50) NULL,
+	[createdDate] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PatientDemoInfoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PatientDiagnosisInfo]    Script Date: 1/5/2022 3:32:11 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PatientDiagnosisInfo](
+	[Id] [int] NULL,
+	[PatientDiagnosisInfoId] [int] IDENTITY(1,1) NOT NULL,
+	[DiagnosisCode] [varchar](25) NULL,
+	[DiagnosisDescription] [varchar](50) NULL,
+	[DiagnosisIsDepricated] [varchar](5) NULL,
+	[Patient_Id] [int] NULL,
+	[Physician_Id] [int] NULL,
+	[Created_By] [int] NULL,
+	[Created_Date] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PatientDiagnosisInfoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PatientMedicationInfo]    Script Date: 1/5/2022 3:32:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PatientMedicationInfo](
+	[Id] [int] NULL,
+	[PatientMedicationInfoId] [int] IDENTITY(1,1) NOT NULL,
+	[Drug_ID] [varchar](20) NULL,
+	[Drug_Name] [varchar](50) NULL,
+	[Drug_Generic_Name] [varchar](50) NULL,
+	[Drug_Brand_Name] [varchar](50) NULL,
+	[Drug_Form] [varchar](50) NULL,
+	[Drug_Strength] [varchar](50) NULL,
+	[Patient_Id] [int] NULL,
+	[Physician_Id] [int] NULL,
+	[Created_By] [int] NULL,
+	[Created_Date] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PatientMedicationInfoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PatientProcedureInfo]    Script Date: 1/5/2022 3:32:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PatientProcedureInfo](
+	[Id] [int] NULL,
+	[PatientProcedureInfoId] [int] IDENTITY(1,1) NOT NULL,
+	[ProcedureCode] [varchar](25) NULL,
+	[Patient_Id] [int] NULL,
+	[Physician_Id] [int] NULL,
+	[Created_By] [int] NULL,
+	[ProcedureIsDepricated] [varchar](5) NULL,
+	[ProcedureDescription] [varchar](500) NULL,
+	[Created_Date] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PatientProcedureInfoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[PatientVitalSignInfo]    Script Date: 1/5/2022 3:32:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[PatientVitalSignInfo](
+	[Id] [int] NULL,
+	[PatientVitalSignInfoId] [int] IDENTITY(1,1) NOT NULL,
+	[Height] [decimal](18, 0) NULL,
+	[Weight] [decimal](18, 0) NULL,
+	[BloodPressure] [decimal](18, 0) NULL,
+	[BodyTemperature] [decimal](18, 0) NULL,
+	[RespirationRate] [decimal](18, 0) NULL,
+	[Patient_Id] [int] NULL,
+	[Physician_Id] [int] NULL,
+	[Created_By] [int] NULL,
+	[Created_Date] [datetime] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[PatientVitalSignInfoId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[ProcedureData]    Script Date: 1/5/2022 3:32:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[ProcedureData](
+	[Id] [int] NULL,
+	[ProcedureId] [int] IDENTITY(1,1) NOT NULL,
+	[ProcedureCode] [varchar](25) NULL,
+	[ProcedureIsDepricated] [varchar](5) NULL,
+	[ProcedureDescription] [varchar](500) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ProcedureId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Role]    Script Date: 1/5/2022 3:32:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Role](
+	[Id] [int] NULL,
+	[Role_Id] [int] IDENTITY(1,1) NOT NULL,
+	[Role_Name] [varchar](50) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Role_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Scheduling]    Script Date: 1/5/2022 3:32:12 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Scheduling](
+	[Scheduling_Id] [int] IDENTITY(1,1) NOT NULL,
+	[MeetingTitle] [varchar](100) NULL,
+	[DescriptiveInformation] [varchar](100) NULL,
+	[DateOfAppointment] [datetime] NULL,
+	[TimeOfAppointment] [varchar](50) NULL,
+	[Patient_Id] [int] NULL,
+	[Physician_Id] [int] NULL,
+	[Created_By] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Scheduling_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+SET IDENTITY_INSERT [dbo].[Allergy] ON 
+GO
+INSERT [dbo].[Allergy] ([Id], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo]) VALUES (1, N'Bos d 2.0101', N'Animal', N'Bovine', N'Bos taurus')
+GO
+INSERT [dbo].[Allergy] ([Id], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo]) VALUES (2, N'Bos d 3.0101', N'Animal', N'Dog', N'Bos taurus')
+GO
+SET IDENTITY_INSERT [dbo].[Allergy] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Diagnosis] ON 
+GO
+INSERT [dbo].[Diagnosis] ([Id], [DiagnosisId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated]) VALUES (1, 1, N'A00', N'Cholera ', N'Yes')
+GO
+INSERT [dbo].[Diagnosis] ([Id], [DiagnosisId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated]) VALUES (2, 2, N'B00', N'Typhoid ', N'No')
+GO
+SET IDENTITY_INSERT [dbo].[Diagnosis] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Drug] ON 
+GO
+INSERT [dbo].[Drug] ([Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Id]) VALUES (N'CT001', N'Paracetamol', N'calpol tab', N'calpol tab', N'tablet', N'350 mg', 1)
+GO
+INSERT [dbo].[Drug] ([Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Id]) VALUES (N'CT002', N'cetrizine', N'okacet', N'okacet', N'tablet', N'10 mg', 2)
+GO
+SET IDENTITY_INSERT [dbo].[Drug] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Login] ON 
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (1, N'rajesh.sharma@gmail.com', N'1@Rajesh', N'1@Rajesh', N'Mr', N'Rajesh', N'sharma', N'rajesh.sharma@gmail.com', CAST(N'1997-03-11T00:00:00.000' AS DateTime), CAST(N'2016-11-10T00:00:00.000' AS DateTime), N'9594000121', N'Active', 1, 1, CAST(N'2021-12-07T18:16:24.583' AS DateTime), N'Rajesh Sharma', NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (2, N'rajeshAtish.sharma@gmail.com', N'1@RajeshAtish', N'1@RajeshAtish', N'Mr', N'Rajesh', N'sharma', N'rajesh.sharma@gmail.com', CAST(N'1997-03-11T00:00:00.000' AS DateTime), CAST(N'2016-11-10T00:00:00.000' AS DateTime), N'9594000121', N'Active', 1, 1, CAST(N'2021-12-07T18:16:24.583' AS DateTime), N'Rajesh Sharma', NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (3, N'Atish.sharma@gmail.com', N'1@Atish', N'1@OldPassAtish', N'Mr', N'Atish', N'sharma', N'rajesh.sharma@gmail.com', CAST(N'1997-03-11T00:00:00.000' AS DateTime), CAST(N'2016-11-10T00:00:00.000' AS DateTime), N'9594000121', N'Active', 1, 1, CAST(N'2021-12-07T18:16:24.583' AS DateTime), N'Rajesh Sharma', NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (4, N'Suraj.sharma@gmail.com', N'1@Suraj', N'1@OldPassSuraj', N'Mr', N'Suraj', N'sharma', N'Suraj.sharma@gmail.com', CAST(N'1997-03-11T00:00:00.000' AS DateTime), CAST(N'2016-11-10T00:00:00.000' AS DateTime), N'9594000121', N'Active', 2, 1, CAST(N'2021-12-07T18:16:24.583' AS DateTime), N'Rajesh Sharma', NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (5, N'Manisha.sharma@gmail.com', N'1@Manisha', N'1@OldPassManisha', N'Mr', N'Manisha', N'sharma', N'Manisha.sharma@gmail.com', CAST(N'1997-03-11T00:00:00.000' AS DateTime), CAST(N'2016-11-10T00:00:00.000' AS DateTime), N'9594000121', N'Active', 3, 1, CAST(N'2021-12-07T18:16:24.583' AS DateTime), N'Rajesh Sharma', NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (16, N'rakesh.mane@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr', N'rakesh', N'mane', N'rakesh.mane@gmail.com', CAST(N'2021-11-17T00:00:00.000' AS DateTime), CAST(N'2021-11-04T00:00:00.000' AS DateTime), NULL, N'Active', 2, 1, CAST(N'2021-12-24T16:21:24.633' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (17, N'rakesh.mane@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr.', N'rakesh', N'mane', N'rakesh.mane@gmail.com', CAST(N'2021-12-02T00:00:00.000' AS DateTime), CAST(N'2002-11-12T00:00:00.000' AS DateTime), NULL, N'Acive', 1, 1, CAST(N'2021-12-24T16:33:17.863' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (18, N'suraj.d@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr.', N'suraj', N'd', N'suraj.d@gmail.com', CAST(N'2021-12-03T00:00:00.000' AS DateTime), CAST(N'2002-11-12T00:00:00.000' AS DateTime), NULL, N'Active', 3, 1, CAST(N'2021-12-24T16:42:36.713' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (20, N'abhi.ghadi@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr.', N'abhi', N'ghadi', N'abhi.ghadi@gmail.com', CAST(N'2021-12-01T00:00:00.000' AS DateTime), CAST(N'2002-11-12T00:00:00.000' AS DateTime), N'6858675644', N'Active', 4, 1, CAST(N'2021-12-24T19:20:51.387' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (24, N'd.rane@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr', N'dipesh', N'rane', N'd.rane@gmail.com', CAST(N'2021-11-02T00:00:00.000' AS DateTime), CAST(N'2021-11-11T00:00:00.000' AS DateTime), NULL, N'Active', 1, 1, CAST(N'2021-12-25T13:08:12.173' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (25, N'd.rane@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr', N'dipesh', N'rane', N'd.rane@gmail.com', CAST(N'2021-11-09T00:00:00.000' AS DateTime), CAST(N'2021-11-10T00:00:00.000' AS DateTime), NULL, N'Active', 1, 1, CAST(N'2021-12-25T13:08:10.133' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (26, N'amol.s@gmail.com', N' 1@Userdemo', N' 1@Userdemo', N'Mr.', N'amol', N'sawant', N'amol.s@gmail.com', CAST(N'2021-12-01T00:00:00.000' AS DateTime), CAST(N'2002-11-12T00:00:00.000' AS DateTime), N'4466757256', N'Active', 3, 1, CAST(N'2021-12-25T13:46:25.667' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (27, N'kulwant.v@gmail.com', N'1@Kulwant', N'1@Kulwant', N'Mr.', N'kulwant ', N'vishawkarma', N'kulwant.v@gmail.com', CAST(N'2021-12-01T00:00:00.000' AS DateTime), CAST(N'2002-11-12T00:00:00.000' AS DateTime), N'9594000121', N'Active', 4, 1, CAST(N'2021-12-29T17:52:46.540' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (28, N'aditya.shinde@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr', N'Aditya', N'Shinde', N'aditya.shinde@gmail.com', CAST(N'2018-02-14T00:00:00.000' AS DateTime), CAST(N'2021-11-16T00:00:00.000' AS DateTime), NULL, N'Active', 1, 1, CAST(N'2021-12-29T17:59:39.560' AS DateTime), NULL, NULL)
+GO
+INSERT [dbo].[Login] ([User_Id], [Username], [Password], [Old_Password], [Title], [Firstname], [Lastname], [Email_Id], [DOB], [DOJ], [Contact_No], [Status], [Role_Id], [IsActive], [Created_Date], [Created_By], [Id]) VALUES (29, N'abhimanyu.ghadi@gmail.com', N'1@Demouser', N'1@Demouser', N'Mr', N'abhimanyu', N'ghadi', N'abhimanyu.ghadi@gmail.com', CAST(N'1994-05-24T00:00:00.000' AS DateTime), CAST(N'2016-06-21T00:00:00.000' AS DateTime), NULL, N'Active', 2, 1, CAST(N'2021-12-30T16:28:50.227' AS DateTime), NULL, NULL)
+GO
+SET IDENTITY_INSERT [dbo].[Login] OFF
+GO
+SET IDENTITY_INSERT [dbo].[PatientAllergyInfo] ON 
+GO
+INSERT [dbo].[PatientAllergyInfo] ([Id], [PatientAllergyInfoId], [User_Id], [HasAllergy], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo], [AllergyDescription], [IsFatal]) VALUES (1, 1, 1, 0, N'', N'', N'', N'', N'', N'')
+GO
+INSERT [dbo].[PatientAllergyInfo] ([Id], [PatientAllergyInfoId], [User_Id], [HasAllergy], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo], [AllergyDescription], [IsFatal]) VALUES (2, 2, 2, 1, N'Bos d 2.0101', N'Animal', N'Bovine', N'Bos taurus', N'gjsgajgjah', N'No')
+GO
+INSERT [dbo].[PatientAllergyInfo] ([Id], [PatientAllergyInfoId], [User_Id], [HasAllergy], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo], [AllergyDescription], [IsFatal]) VALUES (3, 4, 1, 1, N'Cav p 1.0101', N'Animal', N'Domstic', N'Cavia porcellus', N'facing since', N'Yes')
+GO
+INSERT [dbo].[PatientAllergyInfo] ([Id], [PatientAllergyInfoId], [User_Id], [HasAllergy], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo], [AllergyDescription], [IsFatal]) VALUES (NULL, 6, 2, 1, N'Bos d 2.0101', N'Animal', N'Bovine', N'Bos taurus', N'Clinical Information means clinical, operative or other medical records and reports kept in the ordinary course of a Physician''s, Physician Group''s or Physician Organization''s business, and, where applicable, requested statements of Medical Necessity.', N'Yes')
+GO
+INSERT [dbo].[PatientAllergyInfo] ([Id], [PatientAllergyInfoId], [User_Id], [HasAllergy], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo], [AllergyDescription], [IsFatal]) VALUES (NULL, 7, 27, 1, N'Bos d 2.0101', N'Animal', N'Bovine', N'Bos taurus', N'To diagnose and treat individual patients effectively, individual care providers and care teams must have access to at least three major types of clinical information—the patient''s health record, the rapidly changing medical-evidence base, and provider orders guiding the process of patient care.', N'No')
+GO
+INSERT [dbo].[PatientAllergyInfo] ([Id], [PatientAllergyInfoId], [User_Id], [HasAllergy], [AllergyId], [AllergyType], [AllergyName], [ClinicalInfo], [AllergyDescription], [IsFatal]) VALUES (NULL, 8, 27, 1, N'Bos d 2.0101', N'Animal', N'Bovine', N'Bos taurus', N'To diagnose and treat individual patients effectively, individual care providers and care teams must have access to at least three major types of clinical information—the patient''s health record, the rapidly changing medical-evidence base, and provider orders guiding the process of patient care.', N'Yes')
+GO
+SET IDENTITY_INSERT [dbo].[PatientAllergyInfo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[PatientDemoInfo] ON 
+GO
+INSERT [dbo].[PatientDemoInfo] ([Id], [PatientDemoInfoId], [User_Id], [title], [fname], [lname], [dob], [age], [race], [ethinicity], [languagesKnown], [email], [gender], [homeAddress], [contactNumber], [emergencyFname], [emergencyLname], [relationship], [emergencyEmail], [EmergencyMobileNo], [emergencyAddress], [portalaccess], [TypeofAllergies], [createdDate]) VALUES (NULL, 1, 1, N'Mr', N'Abhimanyu', N'Ghadi', CAST(N'1997-07-30T00:00:00.000' AS DateTime), N'25', N'Indian', N'Hindu', N'Marathi', N'suraj@gmail.com', N'Male', N'Sangli', N'73278247328727', N'someone', N'soneone', N'Sister', N'someone@gmail.com', N'4732643264872462', N'kjsahdskhduhdkahdi', N'Yes', N'Yes', CAST(N'2021-12-30T10:00:27.467' AS DateTime))
+GO
+INSERT [dbo].[PatientDemoInfo] ([Id], [PatientDemoInfoId], [User_Id], [title], [fname], [lname], [dob], [age], [race], [ethinicity], [languagesKnown], [email], [gender], [homeAddress], [contactNumber], [emergencyFname], [emergencyLname], [relationship], [emergencyEmail], [EmergencyMobileNo], [emergencyAddress], [portalaccess], [TypeofAllergies], [createdDate]) VALUES (2, 4, 2, N'Mr', N'Atish', N'Langote', CAST(N'2000-05-05T00:00:00.000' AS DateTime), N'26', N'Indian', N'Hindiu', N'Marathi', N'atish@gmail.com', N'Male', N'Barshi', N'2434343', N'skdks', N'nsdnkjs', N'Brother', N'ddjdjk@huhu.com', N'ciudsiusdh', N'nkjnkjsndks', N'Yes', N'Yes', CAST(N'2019-06-06T00:00:00.000' AS DateTime))
+GO
+INSERT [dbo].[PatientDemoInfo] ([Id], [PatientDemoInfoId], [User_Id], [title], [fname], [lname], [dob], [age], [race], [ethinicity], [languagesKnown], [email], [gender], [homeAddress], [contactNumber], [emergencyFname], [emergencyLname], [relationship], [emergencyEmail], [EmergencyMobileNo], [emergencyAddress], [portalaccess], [TypeofAllergies], [createdDate]) VALUES (1, 6, 1, N'Mr', N'Abhimanyu', N'Patil', CAST(N'2000-03-03T00:00:00.000' AS DateTime), N'25', N'Indian', N'Hindu', N'Marathi', N'suraj@gmail.com', N'Male', N'Sangli', N'73278247328727', N'someone', N'soneone', N'Brother', N'someone@gmail.com', N'4732643264872462', N'kjsahdskhduhdkahdi', N'Yes', N'Yes', CAST(N'2021-05-23T00:00:00.000' AS DateTime))
+GO
+INSERT [dbo].[PatientDemoInfo] ([Id], [PatientDemoInfoId], [User_Id], [title], [fname], [lname], [dob], [age], [race], [ethinicity], [languagesKnown], [email], [gender], [homeAddress], [contactNumber], [emergencyFname], [emergencyLname], [relationship], [emergencyEmail], [EmergencyMobileNo], [emergencyAddress], [portalaccess], [TypeofAllergies], [createdDate]) VALUES (NULL, 7, 5, N'Mr', N'anil', N'yadav', CAST(N'2021-11-30T18:30:00.000' AS DateTime), N'25', N'white', N'test', N'english', N'anil.yadav@gmal.com', N'Male', N'mumbai', N'6538378387', N'ramesh', N'yadav', N'Brother', N'ramesh.yadav@gmail.com', N'7567375736', N'', N'Yes', N'Yes', NULL)
+GO
+INSERT [dbo].[PatientDemoInfo] ([Id], [PatientDemoInfoId], [User_Id], [title], [fname], [lname], [dob], [age], [race], [ethinicity], [languagesKnown], [email], [gender], [homeAddress], [contactNumber], [emergencyFname], [emergencyLname], [relationship], [emergencyEmail], [EmergencyMobileNo], [emergencyAddress], [portalaccess], [TypeofAllergies], [createdDate]) VALUES (NULL, 8, 5, N'Mr', N'rani', N'sharma', CAST(N'2021-12-08T18:30:00.000' AS DateTime), N'34', N'white', N'test', N'english', N'anil.yadav@gmal.com', N'4', N'mumbai', N'6538378387', N'ramesh', N'yadav', N'Brother', N'ramesh.yadav@gmail.com', N'7567375736', N'mumbai', N'Yes', N'Yes', NULL)
+GO
+INSERT [dbo].[PatientDemoInfo] ([Id], [PatientDemoInfoId], [User_Id], [title], [fname], [lname], [dob], [age], [race], [ethinicity], [languagesKnown], [email], [gender], [homeAddress], [contactNumber], [emergencyFname], [emergencyLname], [relationship], [emergencyEmail], [EmergencyMobileNo], [emergencyAddress], [portalaccess], [TypeofAllergies], [createdDate]) VALUES (NULL, 9, 5, N'Mr', N'akshay', N'dubey', CAST(N'2021-12-20T18:30:00.000' AS DateTime), N'25', N'white', N'test', N'english', N'akshay.dubey@gmail.com', N'Male', N'navi mumbai', N'6538378387', N'prasad', N'dubey', N'Brother', N'prasad.dubey@gmal.com', N'7567375736', N'navi mumbai', N'Yes', N'Yes', NULL)
+GO
+SET IDENTITY_INSERT [dbo].[PatientDemoInfo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[PatientDiagnosisInfo] ON 
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (1, 1, N'A00', N'Drug', N'test', 20, 4, 5, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 2, N'A00', N'Typhoid', NULL, 20, 4, 5, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 3, N'A00', N'Cholera ', NULL, 20, 4, 5, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 4, N'A00', N'Cholera ', NULL, 20, 4, 5, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 5, N'A00', N'Cholera ', NULL, 20, 4, 5, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 6, N'A00', N'Cholera ', NULL, 20, 4, 16, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 7, N'A00', N'Typhoid ', NULL, 20, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 8, N'B00', N'Typhoid ', NULL, 27, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 9, N'A00', N'Typhoid ', NULL, 27, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 10, N'A00', N'Typhoid ', NULL, 27, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 11, N'A00', N'Cholera ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 12, N'A00', N'Typhoid ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 13, N'A00', N'Typhoid ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 14, N'B00', N'Typhoid ', NULL, 20, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 15, N'B00', N'Typhoid ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 16, N'B00', N'Typhoid ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 17, N'A00', N'Cholera ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 18, N'B00', N'Typhoid ', NULL, 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 19, N'B00', N'Cholera ', NULL, 20, 29, 26, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 20, N'A00', N'Typhoid ', NULL, 20, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientDiagnosisInfo] ([Id], [PatientDiagnosisInfoId], [DiagnosisCode], [DiagnosisDescription], [DiagnosisIsDepricated], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (28, 21, N'B00', N'Typhoid ', NULL, 27, 16, 16, CAST(N'2022-01-05T13:15:13.150' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[PatientDiagnosisInfo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[PatientMedicationInfo] ON 
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 1, N'', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 2, N'', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 3, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 4, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 5, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', NULL, NULL, NULL, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 6, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 20, 4, 5, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 8, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 27, 4, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 9, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 20, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 10, N'CT002', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', 27, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 11, N'CT002', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', 27, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 12, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 27, 16, 16, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 13, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 14, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 20, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 15, N'CT002', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 16, N'CT002', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 17, N'CT001', N'Paracetamol', N'calpol tab', NULL, N'tablet', N'350 mg', 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 18, N'CT002', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', 27, 16, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 19, N'CT002', N'cetrizine', N'okacet', NULL, N'tablet', N'10 mg', 20, 29, 26, NULL)
+GO
+INSERT [dbo].[PatientMedicationInfo] ([Id], [PatientMedicationInfoId], [Drug_ID], [Drug_Name], [Drug_Generic_Name], [Drug_Brand_Name], [Drug_Form], [Drug_Strength], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (2, 20, N'CT002', N'cetrizine', N'okacet', N'okacet', N'tablet', N'10 mg', NULL, NULL, NULL, CAST(N'2022-01-05T13:19:09.113' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[PatientMedicationInfo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[PatientProcedureInfo] ON 
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (1, 9, N'0016070 ', 1, 2, 1, N'No', NULL, NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (2, 10, N'0016071 ', 2, 2, 2, N'yes', NULL, NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (2, 11, N'0016071 ', 2, 2, 2, N'yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 12, N'0016070 ', 20, 4, 2, N'', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 13, N'0016070 ', 20, 4, 2, N'Yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 14, NULL, 20, 14, 2, NULL, NULL, NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 15, N'0016070 ', 20, 4, 2, N'Yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 16, N'0016070 ', 20, 4, 26, N'Yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 17, N'0016070 ', 27, 16, 16, N'Yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 18, N'0016071 ', 27, 16, 16, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 19, N'0016071 ', 27, 16, 16, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 20, N'0016071 ', 27, 16, 26, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 21, N'0016070 ', 20, 4, 26, N'Yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 22, N'0016071 ', 27, 16, 26, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 23, N'0016071 ', 27, 16, 26, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 24, N'0016071 ', 27, 16, 26, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 25, N'0016070 ', 27, 16, 26, N'Yes', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 26, N'0016071 ', 27, 16, 26, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (NULL, 27, N'0016071 ', 20, 29, 26, N'Yes', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach', NULL)
+GO
+INSERT [dbo].[PatientProcedureInfo] ([Id], [PatientProcedureInfoId], [ProcedureCode], [Patient_Id], [Physician_Id], [Created_By], [ProcedureIsDepricated], [ProcedureDescription], [Created_Date]) VALUES (1, 28, N'0016070 ', NULL, NULL, NULL, N'No', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach', CAST(N'2022-01-05T13:25:41.113' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[PatientProcedureInfo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[PatientVitalSignInfo] ON 
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (1, 1, CAST(155 AS Decimal(18, 0)), CAST(56 AS Decimal(18, 0)), CAST(80 AS Decimal(18, 0)), CAST(98 AS Decimal(18, 0)), CAST(73 AS Decimal(18, 0)), 1, 1, 2, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 2, CAST(165 AS Decimal(18, 0)), CAST(60 AS Decimal(18, 0)), CAST(80 AS Decimal(18, 0)), CAST(98 AS Decimal(18, 0)), CAST(73 AS Decimal(18, 0)), 2, 1, 2, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 3, CAST(167 AS Decimal(18, 0)), CAST(65 AS Decimal(18, 0)), CAST(80 AS Decimal(18, 0)), CAST(98 AS Decimal(18, 0)), CAST(73 AS Decimal(18, 0)), 2, 1, 2, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 4, CAST(167 AS Decimal(18, 0)), CAST(65 AS Decimal(18, 0)), CAST(80 AS Decimal(18, 0)), CAST(98 AS Decimal(18, 0)), CAST(73 AS Decimal(18, 0)), 2, 1, 2, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 5, CAST(167 AS Decimal(18, 0)), CAST(65 AS Decimal(18, 0)), CAST(80 AS Decimal(18, 0)), CAST(98 AS Decimal(18, 0)), CAST(73 AS Decimal(18, 0)), 2, 1, 2, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (40, 6, CAST(160 AS Decimal(18, 0)), CAST(60 AS Decimal(18, 0)), CAST(60 AS Decimal(18, 0)), CAST(60 AS Decimal(18, 0)), CAST(60 AS Decimal(18, 0)), 20, 29, 26, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (NULL, 7, CAST(159 AS Decimal(18, 0)), CAST(59 AS Decimal(18, 0)), CAST(109 AS Decimal(18, 0)), CAST(99 AS Decimal(18, 0)), CAST(95 AS Decimal(18, 0)), 20, 29, 26, NULL)
+GO
+INSERT [dbo].[PatientVitalSignInfo] ([Id], [PatientVitalSignInfoId], [Height], [Weight], [BloodPressure], [BodyTemperature], [RespirationRate], [Patient_Id], [Physician_Id], [Created_By], [Created_Date]) VALUES (28, 8, CAST(165 AS Decimal(18, 0)), CAST(60 AS Decimal(18, 0)), CAST(80 AS Decimal(18, 0)), CAST(98 AS Decimal(18, 0)), CAST(73 AS Decimal(18, 0)), 2, 1, 2, CAST(N'2022-01-05T13:34:45.780' AS DateTime))
+GO
+SET IDENTITY_INSERT [dbo].[PatientVitalSignInfo] OFF
+GO
+SET IDENTITY_INSERT [dbo].[ProcedureData] ON 
+GO
+INSERT [dbo].[ProcedureData] ([Id], [ProcedureId], [ProcedureCode], [ProcedureIsDepricated], [ProcedureDescription]) VALUES (1, 1, N'0016070 ', N'No', N'Bypass Cerebral Ventricle to Nasopharynx with Autologous Tissue Substitute, Open Approach')
+GO
+INSERT [dbo].[ProcedureData] ([Id], [ProcedureId], [ProcedureCode], [ProcedureIsDepricated], [ProcedureDescription]) VALUES (2, 2, N'0016071 ', N'No', N'Bypass Cerebral Ventricle to Mastoid Sinus with Autologous Tissue Substitute, Open Approach')
+GO
+INSERT [dbo].[ProcedureData] ([Id], [ProcedureId], [ProcedureCode], [ProcedureIsDepricated], [ProcedureDescription]) VALUES (3, 3, N'0016072 ', N'No', N'Bypass Cerebral Ventricle to Atrium with Autologous Tissue Substitute, Open Approach')
+GO
+INSERT [dbo].[ProcedureData] ([Id], [ProcedureId], [ProcedureCode], [ProcedureIsDepricated], [ProcedureDescription]) VALUES (4, 4, N'0016073 ', N'Yes', N'Bypass Cerebral Ventricle to Blood Vessel with Autologous Tissue Substitute, Open Approach')
+GO
+SET IDENTITY_INSERT [dbo].[ProcedureData] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Role] ON 
+GO
+INSERT [dbo].[Role] ([Id], [Role_Id], [Role_Name]) VALUES (1, 1, N'Admin')
+GO
+INSERT [dbo].[Role] ([Id], [Role_Id], [Role_Name]) VALUES (2, 2, N'Physician')
+GO
+INSERT [dbo].[Role] ([Id], [Role_Id], [Role_Name]) VALUES (3, 3, N'Nurse')
+GO
+INSERT [dbo].[Role] ([Id], [Role_Id], [Role_Name]) VALUES (4, 4, N'Patient')
+GO
+SET IDENTITY_INSERT [dbo].[Role] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Scheduling] ON 
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (4, N'Fever', N'Fever cold', CAST(N'2016-09-10T00:00:00.000' AS DateTime), N'11:30', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (6, N'Eye 1 Opertion', N'Blindnes of 1 eye ', CAST(N'2018-08-10T00:00:00.000' AS DateTime), N'8:30', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (8, N'Omicron Positive Treatment', N'Omicron Positive Treatment at 2 pm', CAST(N'2012-01-11T00:00:00.000' AS DateTime), N'2:00', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (11, N'Angular Meeting updated', N'Meeting time at 11am', CAST(N'2021-12-01T00:00:00.000' AS DateTime), N'12:00 pm - 1:00 pm', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (12, N'Meeting for leg operation at 3pm ', NULL, CAST(N'2021-12-13T00:00:00.000' AS DateTime), N'2:00 pm - 3:00 pm', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (13, N'ABC suraj sharma', NULL, CAST(N'2021-12-21T00:00:00.000' AS DateTime), N'11:00 am - 12:00 pm', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (14, N'Meeting 3', NULL, CAST(N'2021-12-21T00:00:00.000' AS DateTime), N'2:00 pm - 3:00 pm', NULL, 5, 4)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (15, N'Meeting 4', NULL, CAST(N'2021-12-04T00:00:00.000' AS DateTime), N'9:00 am - 10:00 am', NULL, 5, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (16, N'Meeting 5', NULL, CAST(N'2021-12-05T00:00:00.000' AS DateTime), N'10:00 am - 11:00 am', NULL, 5, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (17, N'Meeting Nurse Appointment Create', N'Meeting Nurse Appointment Create with manisha', CAST(N'2021-12-03T00:00:00.000' AS DateTime), N'11:00 am - 12:00 pm', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (18, N'Meeting Schedule By Nurse1 ', N'Meeting Schedule By Nurse1 for fever ', CAST(N'2021-12-12T00:00:00.000' AS DateTime), N'11:00 am - 12:00 pm', NULL, NULL, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (19, N'Meeting with Nurse 2 ', N'Meeting with Nurse 2 due to cold fever ', CAST(N'2021-12-16T00:00:00.000' AS DateTime), N'12:00 pm - 1:00 pm', 4, 3, NULL)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (20, N'Meeting 6', NULL, CAST(N'2021-12-22T00:00:00.000' AS DateTime), N'2:00 pm - 3:00 pm', NULL, 3, 4)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (22, N'Umang 1', NULL, CAST(N'2021-12-27T00:00:00.000' AS DateTime), N'1:00 pm - 2:00 pm', 4, 3, 4)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (27, N'Fever ', NULL, CAST(N'2021-12-21T00:00:00.000' AS DateTime), N'1:00 pm - 2:00 pm', 27, 16, 27)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (29, N'Cold fever ', NULL, CAST(N'2022-01-03T00:00:00.000' AS DateTime), N'2:00 pm - 3:00 pm', 27, 16, 27)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (30, N'Brain operation', NULL, CAST(N'2022-01-02T00:00:00.000' AS DateTime), N'1:00 pm - 2:00 pm', 27, 16, 27)
+GO
+INSERT [dbo].[Scheduling] ([Scheduling_Id], [MeetingTitle], [DescriptiveInformation], [DateOfAppointment], [TimeOfAppointment], [Patient_Id], [Physician_Id], [Created_By]) VALUES (31, N'Leg Fracture', NULL, CAST(N'2022-01-01T00:00:00.000' AS DateTime), N'2:00 pm - 3:00 pm', 27, 29, 27)
+GO
+SET IDENTITY_INSERT [dbo].[Scheduling] OFF
+GO
+ALTER TABLE [dbo].[Login]  WITH CHECK ADD FOREIGN KEY([Role_Id])
+REFERENCES [dbo].[Role] ([Role_Id])
+GO
+ALTER TABLE [dbo].[PatientDiagnosisInfo]  WITH CHECK ADD FOREIGN KEY([Created_By])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientDiagnosisInfo]  WITH CHECK ADD FOREIGN KEY([Patient_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientDiagnosisInfo]  WITH CHECK ADD FOREIGN KEY([Physician_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientMedicationInfo]  WITH CHECK ADD FOREIGN KEY([Created_By])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientMedicationInfo]  WITH CHECK ADD FOREIGN KEY([Patient_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientMedicationInfo]  WITH CHECK ADD FOREIGN KEY([Physician_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientProcedureInfo]  WITH CHECK ADD FOREIGN KEY([Created_By])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientProcedureInfo]  WITH CHECK ADD FOREIGN KEY([Patient_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientVitalSignInfo]  WITH CHECK ADD FOREIGN KEY([Created_By])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientVitalSignInfo]  WITH CHECK ADD FOREIGN KEY([Patient_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[PatientVitalSignInfo]  WITH CHECK ADD FOREIGN KEY([Physician_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[Scheduling]  WITH CHECK ADD FOREIGN KEY([Created_By])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[Scheduling]  WITH CHECK ADD FOREIGN KEY([Patient_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+ALTER TABLE [dbo].[Scheduling]  WITH CHECK ADD FOREIGN KEY([Physician_Id])
+REFERENCES [dbo].[Login] ([User_Id])
+GO
+USE [master]
+GO
+ALTER DATABASE [PMS] SET  READ_WRITE 
+GO
+
+
+----------------------------------------
+Login table Filed
+1	rajesh.sharma@gmail.com	1@Rajesh	1@Rajesh	Mr	Rajesh	sharma	rajesh.sharma@gmail.com	1997-03-11 00:00:00.000	2016-11-10 00:00:00.000	9594000121	Active	1	1	2021-12-07 18:16:24.583	Rajesh Sharma	NULL

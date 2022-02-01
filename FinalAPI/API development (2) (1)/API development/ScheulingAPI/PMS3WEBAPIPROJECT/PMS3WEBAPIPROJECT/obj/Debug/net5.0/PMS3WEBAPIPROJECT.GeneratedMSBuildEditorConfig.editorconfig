@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = PMS3WEBAPI
+build_property.ProjectDir = C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\ScheulingAPI\PMS3WEBAPIPROJECT\PMS3WEBAPIPROJECT\

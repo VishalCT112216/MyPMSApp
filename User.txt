@@ -1,0 +1,19 @@
+
+Atish User Details
+
+admin
+User Name: aditya.shinde@gmail.com
+Password:  1@Demouser
+
+
+nurse
+User Name: amol.s@gmail.com
+Password:  1@Userdemo
+
+physician
+User Name: rakesh.mane@gmail.com
+Password:  1@Demouser
+
+patient
+User Name: kulwant.v@gmail.com
+Password:  1@Kulwant

@@ -1,0 +1,218 @@
+<app-header (toggleSideBarForMe)="sideBarToggler()"></app-header>
+<mat-drawer-container > 
+   <mat-drawer mode="side" [opened]="sideBarOpen" >
+    <app-patientvisitdashboard></app-patientvisitdashboard>
+  </mat-drawer>
+   <mat-drawer-content>
+
+
+<div class="container">
+
+  <div class="row">
+
+    <div class="col-3">
+      <!-- (click)="patientinfo(userIdDdl)" -->
+      <button type="button" class="btn btn-primary visitbtn"(click)="patientinfoform()" >Patient Information</button>
+    </div>
+    
+    <div class="col-3">
+      <!-- (click)="patientinfo(userIdDdl)" -->
+      <button type="button" class="btn btn-primary visitbtn"(click)="diagnosisform()" >Diagnosis</button>
+    </div>
+    <div class="col-3">
+      <button type="button" class="btn btn-primary visitbtn" (click)="Medicationform()">Medication</button>
+    </div>
+    
+    <div class="col-3">
+      <button type="button" class="btn btn-primary visitbtn" (click)="Vitalsignsform()">Vitalsigns</button>
+    </div>
+  </div>
+
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="col">
+
+                        <mat-card-title style="text-align: center;">  
+                            <h2>Procedure Form</h2>
+                        </mat-card-title>
+
+                        <form [formGroup]="proceduredetails" (ngSubmit)="addProcedure()">
+
+                        <!-- <div class="row">
+                          <div class="col-1"></div>
+                          <mat-form-field class="full-width col-10">
+                            <mat-select
+                              placeholder="Patient Name"
+                              formControlName="patientId"
+                              required
+                            >
+                              <mat-option *ngFor="let p1 of patientdata" [value]="p1.userId">
+                                {{ p1.firstname }}   {{ p1.lastname }}
+                              </mat-option>
+                            </mat-select>
+                          </mat-form-field>
+                          <div *ngIf='patientmedForm.controls.patientId.touched && patientmedForm.controls.patientId.errors?.required' class="alert alert-danger">
+                            Patient name is Required
+                          </div>
+                          <div class="col-1"></div>
+                        </div> -->
+
+                        <!-- <div class="row">
+                          <div class="col-1"></div>
+                          <mat-form-field class="full-width col-10">
+                            <mat-select
+                              placeholder="Physicain Name"
+                              formControlName="physicianId"
+                              required
+                            >
+                              <mat-option *ngFor="let ph1 of phyasiciandata" [value]="ph1.userId">
+                                {{ ph1.firstname }}   {{ ph1.lastname }}
+                              </mat-option>
+                            </mat-select>
+                          </mat-form-field>
+                          <div *ngIf='patientmedForm.controls.physicianId.touched && patientmedForm.controls.physicianId.errors?.required' class="alert alert-danger">
+                            Physicain name is Required
+                          </div>
+                          <div class="col-1"></div>
+                        </div> -->
+                      
+                         <div class="row">
+                            <mat-form-field appearance="outline" class="full-width col-4">
+                                <mat-select
+                                  placeholder="Procedure Code"
+                                  formControlName="procedureCode"
+                                  
+                                  [(ngModel)]="procedureCodeDdl" (selectionChange)="showOtherFieldsOnProcedureCode()"
+                                >
+                                  <mat-option *ngFor="let al of proceduremasterdata" [value]="al.procedureCode">
+                                    {{ al.procedureCode }}
+                                  </mat-option>
+                                </mat-select>
+                              </mat-form-field>
+                             
+                        <!-- <div class="row">
+                            <mat-form-field class="full-width col-10">
+                                <mat-select
+                                  placeholder="Procedure Description"
+                                  formControlName="procedureDescription"
+                                 
+                                   >
+                                  <mat-option *ngFor="let al of proceduremasterdata" [value]="al.procedureCode">
+                                    {{ al.procedureCode }}
+                                  </mat-option>
+                                </mat-select>
+                              </mat-form-field>
+                        </div> -->
+                       
+                          <mat-form-field appearance="outline" class="full-width col-8">
+                              <mat-label>Procedure Description</mat-label>
+                              <input matInput  type="text" formControlName="procedureDescription" [value]="showProcedureDescription">                      
+                          </mat-form-field>
+                      </div>
+
+                        <div class="row mb-3">
+                            <mat-radio-group name="id" formControlName="procedureIsDepricated" appearance="legacy" class="full-width col-10">
+                            <mat-label> Procedure Is Depricated</mat-label>&nbsp;&nbsp;&nbsp;&nbsp;
+                         <mat-radio-button value="Yes" >
+                             Yes 
+                         </mat-radio-button>&nbsp;&nbsp;
+                         <mat-radio-button value="No" >
+                            No
+                        </mat-radio-button>
+                        </mat-radio-group>
+                     </div>
+
+                     <div class="example-button-row">
+                        <button type="submit"  class="btn btn-primary">Submit</button>
+                        &nbsp;&nbsp;
+                        <button class="btn btn-primary" (click)="Cancel()">
+                          Cancel
+                        </button>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     <!-- <div class="container"> -->
+      <div class="row">
+        <!-- <div class="patientHeader">
+            <h1>Diagnosis Details</h1>
+        </div> -->
+    </div>
+    <div class="col-md-12">
+        <!-- <div class="row">
+            <div class="col-md-6 patientHeader">
+                <div class="Patient p-3">
+                    <button type="button" class="btn btn-secondary  Patientbtn">Patient</button>
+                </div>
+            </div>
+        </div> -->
+        <div class="row p-3">
+            <div class="col-md-3 p-3">
+                <!-- <div>
+                    <button type="button" class="btn btn-primary addpatient" (click)="Addpatientrecord()">Add New</button>
+                </div>
+  
+                <input type="text" name="Name" [(ngModel)]="firstname" (ngModelChange)="search()"
+                placeholder="Search here..." /> -->
+  
+            </div>
+            <!-- <ag-grid-angular style="width: 1100px; height: 300px;" class="ag-theme-alpine" [rowData]="rowData"
+                [columnDefs]="columnDefs" [defaultColDef]="defaultColDef">
+            </ag-grid-angular> -->
+  
+            <table class="table table-striped table-bordered table-sm row-border table-hover ">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Procedure Code</th>
+                    <th>Procedure Description</th>
+                    <th>Procedure IsDepricated</th>
+                    <th>Visit Date</th>
+                    <!-- <th width="220px">Manage</th> -->
+                </tr>
+            </thead>
+            <!-- | orderBy: key:reverse  -->
+            <!-- | paginate: { itemsPerPage: 5, currentPage: p }; -->
+            <tbody>
+                <tr *ngFor="let data of procedureByUserId | paginate: { itemsPerPage: 5, currentPage: p };">
+                    <td>{{ data.patientProcedureInfoId }}</td>
+                    <td>{{ data.procedureCode }}</td>
+                    <td>{{ data.procedureDescription}}</td>
+                    <td>{{ data.procedureIsDepricated }}</td>
+                    <td>{{data.createdDate | date:'yyyy-MM-dd'}}</td>
+
+                    <!-- <td>
+                        <select id="ManagetOptions">
+                            <option value="Active">Active</option>
+                            <option value="Deactivate">Deactivate</option>
+                            <option value="Block">Block</option>
+                        </select>
+                    </td> -->
+                    <!-- <td>
+                        <button type="button" class="btn btn-primary editbtn" (click)="edituser(data.userId)">Edit</button>
+                        <button type="button" (click)="deleteuser(data.userId)" class="btn btn-danger deletebtn">Delete</button>
+                    </td> -->
+                </tr>
+            </tbody>
+        </table>
+        <div class="row">
+            <div class="col-4">
+                <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    
+            </div>
+        </div>
+        </div>
+    </div>
+
+</div>
+
+
+</mat-drawer-content>
+</mat-drawer-container> 
+<!-- [disabled]='!proceduredetails.valid' -->
+
+

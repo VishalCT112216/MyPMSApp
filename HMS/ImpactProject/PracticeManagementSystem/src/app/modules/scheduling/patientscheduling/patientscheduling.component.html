@@ -1,0 +1,58 @@
+
+
+<app-header (toggleSideBarForMe)="sideBarToggler()"></app-header>
+<mat-drawer-container > 
+   <mat-drawer mode="side" [opened]="sideBarOpen" >
+    <app-patientdetailsdashboard></app-patientdetailsdashboard>
+   </mat-drawer>
+   <mat-drawer-content>
+
+<div class="container"  style="z-index: 8;">
+    <!-- <button class="btn btn-primary Backbtn" (click)="backtoDashbors()" style="float: left;">Back</button> -->
+
+    <button class="btn btn-primary" style="float: right;" (click)="createappointment()">Create Appointment</button>
+
+    <div class="row">
+        <div class="patientHeader">
+            <h1 style="text-align: center;"> Patient Scheduling Page</h1>
+        </div>
+    </div>
+    <div>
+      <div class="row">
+  
+    
+          <!-- <ejs-schedule  [selectedDate]='selectedDate' [currentView]='currentView' [eventSettings]='eventSettings'></ejs-schedule> -->
+          <table class="table table-striped table-bordered table-sm row-border table-hover">
+            <thead>
+            <tr>
+                <th>Schedule ID</th>
+                <th>Meeting Title</th>
+                <th>Appointment Date</th>
+                <th>Appointment Time</th>
+            </tr>
+        </thead>
+        <!-- | orderBy: key:reverse  -->
+        <tbody>
+            <tr *ngFor="let data of calenderData | paginate: { itemsPerPage: 5, currentPage: p }; ">
+                <td>{{ data.schedulingId }}</td>
+                <td>{{ data.meetingTitle }}</td>
+                <td>{{ data.dateOfAppointment | date:'yyyy-MM-dd'}}</td>
+                <td>{{ data.timeOfAppointment }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="row">
+        <div class="col-4">
+            <pagination-controls (pageChange)="p = $event"></pagination-controls>
+
+        </div>
+    </div>
+      </div>
+      </div>
+       
+
+</div>
+
+</mat-drawer-content>
+</mat-drawer-container> 
+

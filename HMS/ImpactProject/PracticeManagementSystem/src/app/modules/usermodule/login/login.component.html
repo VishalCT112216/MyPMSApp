@@ -1,0 +1,122 @@
+<!-- <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+
+    <label for="username">First Name: </label>
+    <input id="username" type="text" formControlName="username">
+  
+    <label for="password">Last Name: </label>
+    <input id="password" type="text" formControlName="password">
+
+    <button type="submit" [disabled]="!loginForm.valid">Submit</button>
+  
+  </form> -->
+<!-- 
+  <a routerLink="sendnote">send note</a><br>
+
+  <a routerLink="sendnote">send note</a><br>
+  <a routerLink="receivednotes">Received Note</a><br>
+  <a routerLink="sentnotes">Sent Notes</a><br>
+  <a routerLink="allergyinformation">allergy</a><br>
+  <a routerLink="replynote">reply note</a> -->
+  <!-- <div class="wrapper">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQqC5FBBriQWNy9SBqCTDpHITv8_90RnSrA&usqp=CAU" class="img-responsive" alt="Responsive image">
+ </div> -->
+
+ <div class="bg"></div>
+
+<div class="container">
+    <div class="row">
+        <div>
+            <div class="card col-12 col-md-4">
+                <div class="text-center">
+                    <h2>Login</h2>
+                </div>
+                <form [formGroup]="loginForm" (ngSubmit)="login()">
+
+                    <div class="form-group mb-3">
+    
+                        <label for="username" class=".col-form-label">User Name: </label> 
+                        <input id="username" type="text" formControlName="username" class="form-control" 
+                                        [ngClass]="{ 'is-invalid': isSubmitted && f.username.errors }" placeholder="Enter Username">
+                       
+                        <span class="text-danger" *ngIf="loginForm.controls['username'].touched && loginForm.hasError('required','username')">This field cannot be empty.</span>
+                    </div>
+    
+                    <div class="form-group mb-4">
+    
+                        <label for="password" class=".col-form-label">Password: </label> 
+                        <input id="password" type="password" formControlName="password" class="form-control" 
+                                        [ngClass]="{ 'is-invalid': isSubmitted && f.password.errors }" placeholder="Enter Password">
+
+                        <span class="text-danger" *ngIf="loginForm.controls['password'].touched && loginForm.hasError('required','password')">This field cannot be empty.</span>
+                        <span class="text-danger" *ngIf="loginForm.controls['password'].dirty && loginForm.hasError('pattern','password')">Password entry does not meet criteria.</span>
+                    </div>        
+                               
+                    <button type="submit" class="btn btn-primary mb-3 d-grid gap-2" style="width: 100px;" [disabled]="!loginForm.valid">Login</button>
+                    
+                  </form>
+                 
+                  <div style="text-align: center;" class="mb-3">
+                    <a  routerLink="/forgotpassword">Forgot Password?</a>
+                  </div>
+                  
+                  <div style="text-align: center;">New to CT General Hospital?</div>
+                  <div style="text-align: center;">
+                    <a routerLink="/Patientregistration">Register Here</a>
+                  </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+<!-- <section class="ftco-section">
+  <div class="container">
+    <div class="row justify-content-center">      
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10">
+        <div class="wrap d-md-flex">
+          <div class="img" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQqC5FBBriQWNy9SBqCTDpHITv8_90RnSrA&usqp=CAU);">
+          </div>
+          <div class="login-wrap p-4 p-md-5">
+            <div class="d-flex">
+              <div class="w-100">
+                <h3 class="mb-4">Sign In</h3>
+              </div>
+              <div class="w-100">
+                <p class="social-media d-flex justify-content-end">
+                  <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a>
+                  <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a>
+                </p>
+              </div>
+            </div>
+            <form action="#" class="signin-form">
+              <div class="form-group mb-3">
+                <label class="label" for="name">Username</label>
+                <input type="text" class="form-control" placeholder="Username" required>
+              </div>
+              <div class="form-group mb-3">
+                <label class="label" for="password">Password</label>
+                <input type="password" class="form-control" placeholder="Password" required>
+              </div>
+              <div class="form-group">
+                <button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign In</button>
+              </div>
+              <div class="form-group d-md-flex">
+                <div class="w-50 text-left">
+                  <label class="checkbox-wrap checkbox-primary mb-0">Remember Me
+                  <input type="checkbox" checked>
+                  <span class="checkmark"></span>
+                  </label>
+                </div>
+                <div class="w-50 text-md-right">
+                  <a href="#">Forgot Password</a>
+                </div>
+              </div>
+            </form>
+            <p class="text-center">Not a member? <a data-toggle="tab" href="#signup">Sign Up</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->

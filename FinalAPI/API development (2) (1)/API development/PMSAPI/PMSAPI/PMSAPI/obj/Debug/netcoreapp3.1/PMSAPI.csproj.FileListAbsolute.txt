@@ -1,0 +1,247 @@
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.exe
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.deps.json
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.json
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.dev.json
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfoInputs.cache
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfo.cs
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CoreCompileInputs.cache
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.Manifest.cache
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.xml
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMSAPI.styles.css
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.RazorTargetAssemblyInfo.cache
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.genruntimeconfig.cache
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CopyComplete
+C:\CTHMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.AssemblyReference.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.exe
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.deps.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.dev.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfoInputs.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfo.cs
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CoreCompileInputs.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.Manifest.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.xml
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMSAPI.styles.css
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.RazorTargetAssemblyInfo.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CopyComplete
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.genruntimeconfig.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.exe
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.deps.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.dev.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfoInputs.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfo.cs
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CoreCompileInputs.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.Manifest.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.xml
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMSAPI.styles.css
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.RazorTargetAssemblyInfo.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CopyComplete
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.genruntimeconfig.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.AssemblyReference.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.AssemblyReference.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfoInputs.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.AssemblyInfo.cs
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CoreCompileInputs.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.exe
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.deps.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.runtimeconfig.dev.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\PMSAPI.pdb
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.Manifest.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\staticwebassets\PMSAPI.StaticWebAssets.xml
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PMSAPI.styles.css
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.csproj.CopyComplete
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PMSAPI\PMSAPI\PMSAPI\obj\Debug\netcoreapp3.1\PMSAPI.genruntimeconfig.cache

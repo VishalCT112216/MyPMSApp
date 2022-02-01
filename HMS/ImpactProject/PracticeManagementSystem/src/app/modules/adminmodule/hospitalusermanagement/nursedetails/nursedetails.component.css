@@ -1,0 +1,98 @@
+.hospitalHeader{
+    text-align: center;
+    color: rgb(18, 24, 32);
+}
+.card{
+    border: 1px solid black;
+}
+.table{
+    border: 2px solid black;
+}
+
+
+.Physicianbtn{
+    width: 50%
+
+}
+
+.nursebtn{
+    width: 50%;
+    float:right;
+}
+
+.addNurse{
+    float: right;
+}
+.Physiciandiv{
+    margin-right: -161px;
+}
+
+.viewbtn{
+    background-color: #0dcaf0 !important;
+    margin-right: 16px;
+}
+
+.editbtn{
+    width: 40%;
+    background-color: #0d6efd !important;
+    margin-right: 16px;
+}
+
+.deletebtn{
+    width: 40%;
+    background-color: #dc3545 !important;
+    margin-right: 16px;
+}
+
+#ManagetOptions{
+    width: 98%;
+}
+
+.navbar-collapse {
+    position: absolute;
+    top: 54px;
+    right: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    width: 100%;
+    transition: all 0.4s ease;
+    display: block;
+}
+.navbar-collapse.collapsing {
+    height: auto !important;
+    margin-right: 50%;
+    right: 50%;
+    transition: all 0.2s ease;
+}
+.navbar-collapse.show {
+    right: 0;
+}
+
+.nav{
+    z-index: 10;
+    position: absolute;
+}
+
+
+/* drawer css  */
+
+:host {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  mat-drawer {
+    width: 250px;
+    background: #2c3344 !important;
+
+    color: aliceblue;
+  }
+  
+  mat-drawer-container {
+    height: 100%;
+  }
+  
+  mat-drawer-content {
+    padding: 20px;
+  }
