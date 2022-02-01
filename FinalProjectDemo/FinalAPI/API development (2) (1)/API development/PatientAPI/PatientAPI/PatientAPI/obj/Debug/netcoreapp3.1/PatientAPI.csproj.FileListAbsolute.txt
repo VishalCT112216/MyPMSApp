@@ -1,0 +1,433 @@
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.AssemblyReference.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
+C:\Suraj Doc\APITeam2\PatientAPI\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.AssemblyReference.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.AssemblyReference.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.AssemblyReference.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\Suraj Doc\FinalPMSApi\AsynAwaitPmsApi\API\API\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.AssemblyReference.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.AssemblyReference.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfoInputs.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.AssemblyInfo.cs
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CoreCompileInputs.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.exe
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.deps.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.runtimeconfig.dev.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\PatientAPI.pdb
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.Manifest.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\staticwebassets\PatientAPI.StaticWebAssets.xml
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PatientAPI.styles.css
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.RazorTargetAssemblyInfo.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.csproj.CopyComplete
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\PatientAPI\PatientAPI\PatientAPI\obj\Debug\netcoreapp3.1\PatientAPI.genruntimeconfig.cache
