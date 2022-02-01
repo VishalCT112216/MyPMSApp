@@ -46,17 +46,15 @@ namespace InboxAPI.Controllers
                 http://localhost:4200/ChangePassword"
             };
 
-            using (var client = new SmtpClient())
-            {
-                client.Connect("smtp.gmail.com", 587, false);
+            using var client = new SmtpClient();
+            client.Connect("smtp.gmail.com", 587, false);
 
-                // Note: only needed if the SMTP server requires authentication
-                client.Authenticate("impactbatch7@gmail.com", "Batch@712");
+            // Note: only needed if the SMTP server requires authentication
+            client.Authenticate("impactbatch7@gmail.com", "Batch@712");
 
-                client.Send(message);
-                client.Disconnect(true);
-            }
-          
+            client.Send(message);
+            client.Disconnect(true);
+
 
         }
     }
