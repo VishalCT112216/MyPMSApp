@@ -1,0 +1,29 @@
+
+
+<mat-divider></mat-divider>
+<mat-nav-list>
+  <div class="profile-card">
+    <div class="header">
+        <h2 style="color:white;">Patient </h2>
+        <h4 style="color:white;">{{currentEmail}}</h4>
+    </div>
+    <img src="https://cdn-icons-png.flaticon.com/512/4228/4228704.png" alt="Soufiane FADIL">
+    <div class="text-center">
+      {{currentFname}} {{currentLname}}
+    </div>
+  </div> 
+    <mat-divider></mat-divider>
+   
+  
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/demographicinformation">
+        <mat-icon>supervisor_account</mat-icon> <b style="font-size: 16px;">Demographic Information</b>
+    </a>
+    <a mat-list-item routerLinkActive="list-item-active" routerLink="/allergyinformation">
+      <mat-icon>info</mat-icon>  <b style="font-size: 16px;">Allergy</b>
+    </a>
+    <a mat-list-item routerLink="/patientscheduling"> <mat-icon>calendar_today</mat-icon><b style="font-size: 16px;">Scheduling</b>  </a>
+    <a mat-list-item routerLink="/patientvisithistory"> <mat-icon>info</mat-icon><b style="font-size: 16px;">Visit History</b>  </a>
+
+    <a mat-list-item  routerLink="" (click)="SignOut()"><mat-icon>exit_to_app</mat-icon><b style="font-size: 16px;">SignOut</b>  </a>
+
+</mat-nav-list>

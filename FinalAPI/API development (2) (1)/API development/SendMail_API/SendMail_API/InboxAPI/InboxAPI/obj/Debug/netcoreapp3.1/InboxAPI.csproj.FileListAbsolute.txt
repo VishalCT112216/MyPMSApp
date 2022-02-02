@@ -1,0 +1,285 @@
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.exe
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.deps.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.dev.json
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfoInputs.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfo.cs
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CoreCompileInputs.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.Manifest.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.xml
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\InboxAPI.styles.css
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CopyComplete
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.dll
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.genruntimeconfig.cache
+C:\Users\ManishaB2\Desktop\ImpactProjectAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.AssemblyReference.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.exe
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.deps.json
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.json
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.dev.json
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.AssemblyReference.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfoInputs.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfo.cs
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CoreCompileInputs.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.Manifest.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.xml
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\InboxAPI.styles.css
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.RazorTargetAssemblyInfo.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CopyComplete
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.genruntimeconfig.cache
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\UmangD\Downloads\InboxAPI\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.exe
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.deps.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.dev.json
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfoInputs.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfo.cs
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CoreCompileInputs.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.Manifest.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.xml
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\InboxAPI.styles.css
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.RazorTargetAssemblyInfo.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CopyComplete
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.dll
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.genruntimeconfig.cache
+C:\IMPACT .NET  Program Batch 7\Final Project Details\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.AssemblyReference.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.exe
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.deps.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.dev.json
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfoInputs.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfo.cs
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CoreCompileInputs.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.Manifest.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.xml
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\InboxAPI.styles.css
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.RazorTargetAssemblyInfo.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CopyComplete
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.dll
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.genruntimeconfig.cache
+C:\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.AssemblyReference.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.exe
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.deps.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.runtimeconfig.dev.json
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.AssemblyReference.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfoInputs.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.AssemblyInfo.cs
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CoreCompileInputs.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.Manifest.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\staticwebassets\InboxAPI.StaticWebAssets.xml
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\InboxAPI.styles.css
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.RazorTargetAssemblyInfo.cache
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.csproj.CopyComplete
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.dll
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.pdb
+C:\Users\VishalG7\Downloads\FinalProjectDemo\FinalProjectDemo\FinalAPI\API development (2) (1)\API development\SendMail_API\SendMail_API\InboxAPI\InboxAPI\obj\Debug\netcoreapp3.1\InboxAPI.genruntimeconfig.cache

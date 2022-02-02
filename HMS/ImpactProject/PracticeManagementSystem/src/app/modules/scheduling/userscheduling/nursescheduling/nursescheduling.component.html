@@ -1,0 +1,49 @@
+
+<app-header (toggleSideBarForMe)="sideBarToggler()"></app-header>
+<mat-drawer-container > 
+   <mat-drawer mode="side" [opened]="sideBarOpen" >
+    <app-nursedashboard></app-nursedashboard>
+   </mat-drawer>
+   <mat-drawer-content>
+
+
+<div class="container" style="text-align: center;">  
+    <button class="btn btn-primary Backbtn" (click)="Deleteappointment()" style="float:right;margin-right: 10px;">Delete</button> 
+    <button class="btn btn-primary" style="float: right;margin-right: 10px;" (click)="createappointment()">Create Appointment</button>
+    <div class="row">
+        <div class="patientHeader">
+            <h1>Nurse Scheduling Page</h1>
+        </div>
+    </div>
+    <div>
+      <div class="row">
+           <table class="table table-striped table-bordered table-sm row-border table-hover">
+            <thead>
+            <tr>
+                <th>Schedule ID</th>
+                <th>Meeting Title</th>
+                <th>Appointment Date</th>
+                <th>Appoiment Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of calenderData | paginate: { itemsPerPage: 5, currentPage: p }; ">
+                <td>{{ data.schedulingId }}</td>
+                <td>{{ data.meetingTitle }}</td>
+                <td>{{ data.dateOfAppointment | date:'yyyy-MM-dd'}}</td>
+                <td>{{ data.timeOfAppointment }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="row">
+        <div class="col-4">
+            <pagination-controls (pageChange)="p = $event"></pagination-controls>
+
+        </div>
+    </div>
+      </div>
+      </div>      
+</div>
+
+</mat-drawer-content>
+</mat-drawer-container> 
